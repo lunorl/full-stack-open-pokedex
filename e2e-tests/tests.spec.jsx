@@ -17,5 +17,5 @@ describe("Pokedex", () => {
         "chlorophyll"
       )
     ).toBeVisible();
-  })
+  });
 });
